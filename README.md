@@ -5,4 +5,4 @@ Simple boilerplate of webpack and babel
 npm install
 
 # install globally
-npm install -g webpack-dev-server webpack
+npm install -g webpack-dev-server webpack webpack-cli
